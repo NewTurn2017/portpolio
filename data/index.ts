@@ -86,6 +86,14 @@ export const projects = [
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
     link: 'https://aimemomate.codewithgenie.com',
   },
+  {
+    id: 3,
+    title: 'SD3 이미지 생성',
+    des: 'SD3 이미지 생성 서비스입니다. 자체 호스팅 서버를 사용하여 서비스를 운영하고 있습니다. 무료! 상업적 이용X',
+    img: '/sd3.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://sd3.ai-creator.store',
+  },
 ]
 
 export const testimonials = [
