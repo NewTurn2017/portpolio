@@ -134,6 +134,14 @@ export const projects = [
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
     link: 'https://board.codewithgenie.com',
   },
+  {
+    id: 9,
+    title: 'J노트',
+    des: '노션과 같은 노트앱 입니다. 실시간 반영, BlockNote, Convex 활용',
+    img: '/note.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://note.codewithgenie.com',
+  },
 ]
 
 export const testimonials = [
