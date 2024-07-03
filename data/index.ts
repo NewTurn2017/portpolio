@@ -126,6 +126,14 @@ export const projects = [
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
     link: 'https://newsletter.codewithgenie.com',
   },
+  {
+    id: 8,
+    title: '지니보드',
+    des: '협업 회의 도구입니다. 실시간 회의, 교육, 스터디 등 다양한 용도로 사용할 수 있습니다.',
+    img: '/board.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://board.codewithgenie.com',
+  },
 ]
 
 export const testimonials = [
