@@ -89,10 +89,42 @@ export const projects = [
   {
     id: 3,
     title: 'SD3 이미지 생성',
-    des: 'SD3 이미지 생성 서비스입니다. 자체 호스팅 서버를 사용하여 서비스를 운영하고 있습니다. 무료! 상업적 이용X',
+    des: 'SD3 이미지 생성 서비스입니다. 자체 호스팅 서버를 사용하여 운영하고 있습니다. 무료! 상업적 이용X',
     img: '/sd3.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
     link: 'https://sd3.ai-creator.store',
+  },
+  {
+    id: 4,
+    title: '파일 저장소',
+    des: '파일 업로드, 다운로드, 공유 서비스입니다.',
+    img: '/drive.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://drive.codewithgenie.com',
+  },
+  {
+    id: 5,
+    title: '클립스',
+    des: '내 마음을 정리하다. 드래그 앤 드랍으로 정리하고 싶은 내용을 정리해보세요.',
+    img: '/clips.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://clips.codewithgenie.com',
+  },
+  {
+    id: 6,
+    title: '다보니',
+    des: 'TMDB, Azure, ChatGPT를 활용한 영화 검색 서비스',
+    img: '/daboney.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://daboney.codewithgenie.com',
+  },
+  {
+    id: 7,
+    title: '뉴스레터',
+    des: '뉴스레터 서비스입니다. 구독자를 엑셀로 업로드 단체 발송 서비스',
+    img: '/newsletter.png',
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
+    link: 'https://newsletter.codewithgenie.com',
   },
 ]
 
