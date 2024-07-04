@@ -124,7 +124,7 @@ export const projects = [
     des: '뉴스레터 서비스입니다. 구독자를 엑셀로 업로드 단체 발송 서비스',
     img: '/newsletter.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg'],
-    link: 'https://newsletter.codewithgenie.com',
+    link: 'https://newsletter.ai-creator.store',
   },
   {
     id: 8,
